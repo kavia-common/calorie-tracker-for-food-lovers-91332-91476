@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/calorie-tracker-for-food-lovers-91332-91476/BackendAPIService"
+}
